@@ -1,7 +1,7 @@
 # Multi-level-Community-Detection
 This software implements the algorithm "Multi-level Fuzzy Overlapping Community Detection Algorithm for Weighted Networks".
 
-Article: Choumane, A. and Harkous, A. ‘Multi-level fuzzy overlapping community detection algorithm for weighted networks’, Int. J. Data Science. To appear.
+Article: Choumane, A. and Harkous, A. (2019) ‘Multi-level fuzzy overlapping community detection algorithm for weighted networks’, Int. J. Data Science, Vol. 4, No. 4.
 
 #############
 Compile
